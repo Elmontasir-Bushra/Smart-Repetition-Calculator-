@@ -1,0 +1,30 @@
+# Smart Repetition Calculator
+
+A simple console-based calculator written in Java, designed to help beginners learn core programming concepts through practical application.
+
+## 💡 Features
+
+- Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
+- Division-by-zero error handling
+- Continuous loop until user exits
+- User-friendly console prompts
+- Exit functionality
+
+## 🛠️ Technologies Used
+
+- **Language:** Java (JDK 8+)
+- **IDE:** IntelliJ IDEA / Eclipse / VS Code
+- **Platform:** Console Application
+
+## 🧪 Usage Examples
+
+```text
+Input: 10 + 5
+Output: Result: 15.0
+
+Input: 20 / 4
+Output: Result: 5.0
+
+Input: 10 / 0
+Output: Error: Cannot divide by zero
+
